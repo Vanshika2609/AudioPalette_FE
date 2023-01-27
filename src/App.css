@@ -8,6 +8,13 @@
   text-align: center;
 } */
 
+* {
+  background: black;
+  background-image: radial-gradient(circle at left,  #9d2951 10%, #431d71 25%, #321754 40%, black 70%);
+  background-size: auto 700px;
+  background-attachment: fixed;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
